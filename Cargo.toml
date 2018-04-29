@@ -1,0 +1,8 @@
+[package]
+name = "rust-wiki"
+version = "0.1.0"
+authors = ["Simon Sawert <simon@sawert.se>"]
+
+[dependencies]
+json = "*"
+reqwest = "0.8.5"
